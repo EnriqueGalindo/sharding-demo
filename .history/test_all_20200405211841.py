@@ -5,7 +5,7 @@ import pytest
 
 from controller import ShardHandler, load_data_from_file
 
-# I added a comment so that I could make a pull request
+I added a comment so that I could make a pull request
 def nuke_files():
     subprocess.call(
         "make clean",
